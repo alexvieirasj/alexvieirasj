@@ -3,8 +3,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-alexvieiracb20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:alexvieiracb20@gmail.com)
 ---
 
-## Hi there 👋,           
-I'm Alex Vieira, I'm a web developer 👨‍💻 and actually and actually I'm doing a Bootcamp LaunchBase course by Rocketseat.
+## Hi there 👋          
+I'm Alex Vieira, I'm a web developer 👨‍💻 and actually I'm doing a Bootcamp LaunchBase course by Rocketseat.
 
 ## 🧐 About
 - 🔭 I'm currently learning Node.js, SQLite3 and Nunjucks
