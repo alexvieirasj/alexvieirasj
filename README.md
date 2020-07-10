@@ -1,16 +1,13 @@
-### Hi there 👋
+# Alex Vieira
+[![Linkedin Badge](https://img.shields.io/badge/-alexvieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-vieira-081888109/)](https://www.linkedin.com/in/alex-vieira-081888109/)
+[![Gmail Badge](https://img.shields.io/badge/-alexvieiracb20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:alexvieiracb20@gmail.com)
+---
 
-<!--
-**alexvieirasj/alexvieirasj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋,           
+I'm Alex Vieira, I'm a web developer 👨‍💻 and actually and actually I'm doing a Bootcamp LaunchBase course by Rocketseat.
 
-Here are some ideas to get you started:
+## 🧐 About
+- 🔭 I'm currently learning Node.js, SQLite3 and Nunjucks
+- 💬 Ask me about the TV series, animes, and time travel stuff
+- ⚡ Fun fact: I still hope Hunter X Hunter will come back this year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
