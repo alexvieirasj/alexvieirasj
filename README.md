@@ -4,7 +4,7 @@
 ---
 
 ## Hi there 👋          
-I'm Alex Vieira, I'm a web developer 👨‍💻 and actually I'm doing a Bootcamp LaunchBase course by Rocketseat.
+I'm Alex Vieira, I work as a web developer 👨‍💻 and actually I'm doing a Bootcamp LaunchBase course by Rocketseat.
 
 ## 🧐 About
 - 🔭 I'm currently learning Node.js, SQLite3 and Nunjucks
