@@ -28,4 +28,4 @@ I'm Alex Vieira, I work as a web developer 👨‍💻 and actually I'm doing a 
 <p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=alexvieirasj&show_icons=true&locale=en&=true&theme=dark" alt="Alex Vieira"/></p>
 
 ## :heavy_check_mark: Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexvieirasj&layout=compact&how_icons=true&theme=dark)](https://github.com/alexvieirasj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexvieirasj&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
