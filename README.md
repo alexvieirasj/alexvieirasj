@@ -4,7 +4,7 @@
 ---
 
 ## Hi 👋          
-I'm Alex Vieira, I work as a web developer 👨‍💻 and actually I'm doing a Bootcamp LaunchBase course by [Rocketseat](https://rocketseat.com.br/) and JavaScript Completo ES6 by [Origamid](https://origamid.com.br/).
+I'm Alex Vieira, I work as a web developer 👨‍💻 and actually I'm doing a Bootcamp LaunchBase course by [Rocketseat](https://rocketseat.com.br/) and JavaScript Completo ES6 by [Origamid](https://origamid.com/).
 
 ## 🧐 About Me
 - 🔭 I'm currently learning Node.js, SQLite3 and Nunjucks
