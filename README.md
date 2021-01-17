@@ -7,7 +7,7 @@
 I'm Alex Vieira, I work as a web developer 👨‍💻 and actually I'm doing a Bootcamp LaunchBase course by [Rocketseat](https://rocketseat.com.br/) and JavaScript Completo ES6 by [Origamid](https://origamid.com/).
 
 ## 🧐 About Me
-- 🔭 I'm currently studying JavaScript ES6
+- 🔭 I'm currently studying JavaScript ES6 and JDK 15
 - 💬 Ask me about the TV series, movies, animes, and time travel stuff
 - ⚡ Fun fact: I still hope Hunter X Hunter will come back this year
 
