@@ -4,7 +4,7 @@
 ---
 
 ## Hi 👋          
-I'm Alex Vieira, I work as a full stack developer 👨‍💻 and actually I'm doing Maratona Java by DevDojo, Java Master Developer course by [SoftBlue](https://www.softblue.com.br/) and JavaScript Completo ES6 by [Origamid](https://origamid.com/).
+I'm Alex Vieira, I work as a full stack developer 👨‍💻 and actually I'm doing Maratona Java by [DevDojo](https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL), Java Master Developer course by [SoftBlue](https://www.softblue.com.br/) and JavaScript Completo ES6 by [Origamid](https://origamid.com/).
 
 ## 🧐 About Me
 - 🔭 I'm currently studying JavaScript ES6 and JDK 15
