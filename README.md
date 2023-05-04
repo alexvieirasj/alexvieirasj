@@ -4,7 +4,7 @@
 ---
 
 ## Hi 👋          
-I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doing Programador FullStack course by [OneBitCode]([https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg](https://www.instagram.com/onebitcode/?hl=en)).
+I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doing Programador FullStack course by [OneBitCode](https://www.youtube.com/@OneBitCode).
 
 ## 🧐 About Me
 - 🔭 I'm currently studying JavaScript ES6
