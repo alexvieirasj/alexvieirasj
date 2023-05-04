@@ -4,10 +4,10 @@
 ---
 
 ## Hi 👋          
-I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doing Maratona Java by [DevDojo](https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL) and JavaScript Course by [Roger Mello](https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg).
+I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doing Programador FullStack course by [OneBitCode]([https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg](https://www.instagram.com/onebitcode/?hl=en)).
 
 ## 🧐 About Me
-- 🔭 I'm currently studying JavaScript ES6 and JDK 15
+- 🔭 I'm currently studying JavaScript ES6
 - 💬 Ask me about the TV series, movies, animes, and time travel stuff
 - ⚡ Fun fact: I still hope Hunter X Hunter will come back this year
 
