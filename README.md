@@ -24,8 +24,29 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 </p>
     
-## :information_source: GitHub Stats    
-<p>&nbsp;<img align="justify" src="https://github-readme-stats.vercel.app/api?username=alexvieirasj&show_icons=true&locale=en&=true&theme=dark" alt="Alex Vieira"/></p>
+## Projetos    
+<details open>
+  <summary><h3>Back-end + Front-end</h3></summary>
+  
+  | Nome do Projeto | Linguagens | Descrição | 
+  |------|-------|-------|
+  | [Ecoleta 🗑️](https://github.com/alexvieirasj/nlw) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Evento NLW |
+  | [Foodfy 🍲](https://github.com/alexvieirasj/foodfy) | Node.js + Express.js + NPM + Nunjucks + Nodemon + HTML5 + CSS3 + JavaScript | Rocketseat - Curso Launchbase | 
+  | [Casa Criativa 🏠](https://github.com/alexvieirasj/casa-criativa) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Tutorial YouTube |
+  
+</details>
+
+<details open>
+  <summary><h3>Front-end</h3></summary>
+  
+  | Nome do Projeto | Linguagens | Descrição | 
+  |------|-------|-------|
+  | [Snake Game 🐍](https://github.com/alexvieirasj/snake-game) | HTML5 + CSS3 + JavaScript | Programador BR - Tutorial YouTube |
+  | [To do List ✅](https://github.com/alexvieirasj/to-do-list) | HTML5 + CSS3 + Bootstrap + JavaScript | CJRM - Curso JavaScript | 
+  | [Quiz 🎲](https://github.com/alexvieirasj/quiz-application) | HTML5 + CSS3 + Bootstrap + JavaScript | CJRM - Curso JavaScript |
+  | [Weather-Application ☀️](https://github.com/alexvieirasj/weather-application) | HTML5 + CSS3 + Bootstrap + JavaScript | CJRM - Curso JavaScript |
+  
+</details>
 
 ## :heavy_check_mark: Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexvieirasj&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
