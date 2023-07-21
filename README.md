@@ -33,6 +33,7 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
   | [Ecoleta 🗑️](https://github.com/alexvieirasj/nlw) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Evento NLW |
   | [Foodfy 🍲](https://github.com/alexvieirasj/foodfy) | Node.js + Express.js + NPM + Nunjucks + Nodemon + HTML5 + CSS3 + JavaScript | Rocketseat - Curso Launchbase | 
   | [Casa Criativa 🏠](https://github.com/alexvieirasj/casa-criativa) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Tutorial YouTube |
+  | [Cadastro Cursos 🎓](https://github.com/alexvieirasj/DAW-Modelo-1-Web) | Java 8 + PostgreSQL + Primefaces 6.1 + Hibernate + Jasper Records + Apache Tomcat 9 + All Themes + JavaServer Faces  | Faculdade - Desenvolvimento de Aplicações Web |
   
 </details>
 
