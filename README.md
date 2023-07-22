@@ -43,9 +43,11 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
   | Nome do Projeto | Linguagens | Descrição | 
   |------|-------|-------|
   | [Snake Game 🐍](https://github.com/alexvieirasj/snake-game) | HTML5 + CSS3 + JavaScript | Programador BR - Tutorial YouTube |
+  | [Calculadora 📟](https://github.com/alexvieirasj/onebitcode_calculator) | HTML5 + CSS3 + JavaScript | OneBitCode - Curso Programador FullStack |
   | [To do List ✅](https://github.com/alexvieirasj/to-do-list) | HTML5 + CSS3 + Bootstrap + JavaScript | CJRM - Curso JavaScript | 
   | [Quiz 🎲](https://github.com/alexvieirasj/quiz-application) | HTML5 + CSS3 + Bootstrap + JavaScript | CJRM - Curso JavaScript |
   | [Weather-Application ☀️](https://github.com/alexvieirasj/weather-application) | HTML5 + CSS3 + Bootstrap + JavaScript | CJRM - Curso JavaScript |
+
   
 </details>
 
