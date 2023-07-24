@@ -35,6 +35,7 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
   | [Casa Criativa 🏠](https://github.com/alexvieirasj/casa-criativa) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Tutorial YouTube |
   | [Cadastro Cursos 🎓](https://github.com/alexvieirasj/DAW-Modelo-1-Web) | Java 8 + PostgreSQL + Primefaces 6.1 + Hibernate + Jasper Records + Apache Tomcat 9 + All Themes + JavaServer Faces  | Faculdade - Desenvolvimento de Aplicações Web |
   | [Bate Papo 💬](https://github.com/alexvieirasj/BatePapo) | Java 8 + PostgreSQL + Primefaces 6.1 + Hibernate + Jasper Records + Apache Tomcat 9 + All Themes + JavaServer Faces + EJB  | Faculdade - Tópicos Avançados |
+  | [Dsmovie 🎞️](https://github.com/alexvieirasj/dsmovie) | Java 17 + PostgreSQL + H2 + Spring + React + Heroku | DevSuperior - Bootcamp |
   
   
 </details>
