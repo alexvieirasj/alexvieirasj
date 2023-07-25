@@ -24,11 +24,11 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 </p>
     
-## Projetos    
+## Projects    
 <details open>
   <summary><h3>Back-end + Front-end</h3></summary>
   
-  | Nome do Projeto | Linguagens | Descrição | 
+  | Project Name | Languages | Description | 
   |------|-------|-------|
   | [Ecoleta 🗑️](https://github.com/alexvieirasj/nlw) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Evento NLW |
   | [Foodfy 🍲](https://github.com/alexvieirasj/foodfy) | Node.js + Express.js + NPM + Nunjucks + Nodemon + HTML5 + CSS3 + JavaScript | Rocketseat - Curso Launchbase | 
@@ -43,7 +43,7 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
 <details open>
   <summary><h3>Front-end</h3></summary>
   
-  | Nome do Projeto | Linguagens | Descrição | 
+  | Project Name | Languages | Description |  
   |------|-------|-------|
   | [Snake Game 🐍](https://github.com/alexvieirasj/snake-game) | HTML5 + CSS3 + JavaScript | Programador BR - Tutorial YouTube |
   | [Calculadora 📟](https://github.com/alexvieirasj/onebitcode_calculator) | HTML5 + CSS3 + JavaScript | OneBitCode - Curso Programador FullStack |
