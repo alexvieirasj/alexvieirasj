@@ -28,13 +28,13 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
 <details open>
   <summary><h3>Back-end + Front-end</h3></summary>
   
-  | Project Name | Languages | Description | 
+  | Project Name | Languages/Tools | Description | 
   |------|-------|-------|
   | [Ecoleta 🗑️](https://github.com/alexvieirasj/nlw) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Evento NLW |
-  | [Foodfy 🍲](https://github.com/alexvieirasj/foodfy) | Node.js + Express.js + NPM + Nunjucks + Nodemon + HTML5 + CSS3 + JavaScript | Rocketseat - Curso Launchbase | 
+  | [Foodfy 🍲](https://github.com/alexvieirasj/foodfy) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Curso Launchbase | 
   | [Casa Criativa 🏠](https://github.com/alexvieirasj/casa-criativa) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Tutorial YouTube |
   | [Cadastro Cursos 🎓](https://github.com/alexvieirasj/DAW-Modelo-1-Web) | Java 8 + PostgreSQL + Primefaces 6.1 + Hibernate + Jasper Records + Apache Tomcat 9 + All Themes + JavaServer Faces  | Faculdade - Desenvolvimento de Aplicações Web |
-  | [Bate Papo 💬](https://github.com/alexvieirasj/BatePapo) | Java 8 + PostgreSQL + Primefaces 6.1 + Hibernate + Jasper Records + Apache Tomcat 9 + All Themes + JavaServer Faces + EJB  | Faculdade - Tópicos Avançados |
+  | [Bate Papo 💬](https://github.com/alexvieirasj/BatePapo) | Java 8 + PostgreSQL + Primefaces 6.1 + Hibernate + Jasper Records + GlassFish + All Themes + JavaServer Faces + EJB  | Faculdade - Tópicos Avançados |
   | [Dsmovie 🎞️](https://github.com/alexvieirasj/dsmovie) | Java 17 + PostgreSQL + H2 + Spring + React + Heroku | DevSuperior - Bootcamp |
   
   
@@ -43,14 +43,14 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
 <details open>
   <summary><h3>Front-end</h3></summary>
   
-  | Project Name | Languages | Description |  
+  | Project Name | Languages/Tools | Description |  
   |------|-------|-------|
   | [Snake Game 🐍](https://github.com/alexvieirasj/snake-game) | HTML5 + CSS3 + JavaScript | Programador BR - Tutorial YouTube |
   | [Calculadora 📟](https://github.com/alexvieirasj/onebitcode_calculator) | HTML5 + CSS3 + JavaScript | OneBitCode - Curso Programador FullStack |
   | [Tic Tac Toe 🎯](https://github.com/alexvieirasj/onebitcode-tic-tac-toe) | HTML5 + CSS3 + JavaScript | OneBitCode - Curso Programador FullStack |
-  | [To do List ✅](https://github.com/alexvieirasj/to-do-list) | HTML5 + CSS3 + Bootstrap + JavaScript | CJRM - Curso JavaScript | 
-  | [Quiz 🎲](https://github.com/alexvieirasj/quiz-application) | HTML5 + CSS3 + Bootstrap + JavaScript | CJRM - Curso JavaScript |
-  | [Weather-Application ☀️](https://github.com/alexvieirasj/weather-application) | HTML5 + CSS3 + Bootstrap + JavaScript | CJRM - Curso JavaScript |
+  | [To do List ✅](https://github.com/alexvieirasj/to-do-list) | HTML5 + CSS3 + JavaScript + Bootstrap + Font Awesome | CJRM - Curso JavaScript | 
+  | [Quiz 🎲](https://github.com/alexvieirasj/quiz-application) | HTML5 + CSS3 + JavaScript + Bootstrap  | CJRM - Curso JavaScript |
+  | [Weather Application ☀️](https://github.com/alexvieirasj/weather-application) | HTML5 + CSS3 + JavaScript + Bootstrap | CJRM - Curso JavaScript |
 
   
 </details>
