@@ -11,18 +11,30 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
 - 💬 Ask me about the TV series, movies, animes, and time travel stuff
 - ⚡ Fun fact: I still hope Hunter X Hunter will come back this year
 
-## 🛠️ Languages and Tools
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="css3" width="60" height="40"/></a> 
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript" width="110" height="40"/></a>
-<a href="https://nodejs.org/en//" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Node" width="80" height="40"/> </a>
-<a href="https://https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="40"/> </a>
-<a href="https://www.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="Apache" width="80" height="40"/> </a>
-<a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="60" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="Postgre" width="80" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-</p>
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&color=informational&logo=html5)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&color=informational&logo=css3)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&color=informational&logo=bootstrap)
+![](https://img.shields.io/badge/Code-Java-fff?style=flat&color=informational&logo=Java&logoColor=007396)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&color=informational&logo=php)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Tool-npm-informational?style=flat&color=informational&logo=npm)
+![](https://img.shields.io/badge/Tool-Apache-informational?style=flat&color=informational&logo=apache)
+![](https://img.shields.io/badge/Tool-GlasFish-fff?style=flat&color=informational&logo=glassfish&logoColor=007396)
+![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&color=informational&logo=postgresql)
+![](https://img.shields.io/badge/Tool-Github-informational?style=flat&color=informational&logo=github)
+![](https://img.shields.io/badge/Tool-Hibernate-informational?style=flat&color=informational&logo=hibernate)
+
+<!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
+![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
+![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker) -->
     
 ## Projects    
 <details open>
