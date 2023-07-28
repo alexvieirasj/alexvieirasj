@@ -56,4 +56,4 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
 </details>
 
 ## :heavy_check_mark: Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexvieirasj&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=alexvieirasj&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
