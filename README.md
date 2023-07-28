@@ -28,7 +28,7 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
 <details open>
   <summary><h3>Back-end + Front-end</h3></summary>
   
-  | Project Name | Languages/Tools | Description | [Project Evaluation 💡](## "Levels: begginer, easy, medium, hard, expert")  | 
+  | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: begginer, easy, medium, hard, expert")  | 
   |------|-------|-------|-------|
   | [Ecoleta 🗑️](https://github.com/alexvieirasj/nlw) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Evento NLW | ![Static Badge](https://img.shields.io/badge/level-medium-yellow) |
   | [Foodfy 🍲](https://github.com/alexvieirasj/foodfy) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Curso Launchbase | ![Static Badge](https://img.shields.io/badge/level-medium-yellow) |  
@@ -43,7 +43,7 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
 <details open>
   <summary><h3>Front-end</h3></summary>
     
-  | Project Name | Languages/Tools | Description | [Project Evaluation 💡](## "Levels: begginer, easy, medium, hard, expert") |   
+  | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: begginer, easy, medium, hard, expert") |   
   |------|-------|-------|-------|
   | [Snake Game 🐍](https://github.com/alexvieirasj/snake-game) | HTML5 + CSS3 + JavaScript | Programador BR - Tutorial YouTube |![Static Badge](https://img.shields.io/badge/level-beginner-green)
   | [Calculadora 📟](https://github.com/alexvieirasj/onebitcode_calculator) | HTML5 + CSS3 + JavaScript | OneBitCode - Curso Programador FullStack |![Static Badge](https://img.shields.io/badge/level-easy-brightgreen)
