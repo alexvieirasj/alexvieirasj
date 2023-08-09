@@ -38,10 +38,10 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
     
 ## Projects    
 <details open>
-  <summary><h3>Back-end + Front-end</h3></summary>
+  <summary><h3>Frontend + Backend</h3></summary>
   
   | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: begginer, easy, medium, hard, expert")  | 
-  |------|-------|-------|-------|
+  |--------------|-----------------|-------------|-----------------------------------------------------------------------------|
   | [Ecoleta 🗑️](https://github.com/alexvieirasj/ecoleta-basic-app) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Evento NLW | ![Static Badge](https://img.shields.io/badge/level-medium-yellow) |
   | [Foodfy 🍲](https://github.com/alexvieirasj/foodfy-app) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Curso Launchbase | ![Static Badge](https://img.shields.io/badge/level-medium-yellow) |  
   | [Casa Criativa 🏠](https://github.com/alexvieirasj/casa-criativa-app) | Node.js + Express.js + NPM + Nunjucks + Nodemon + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Tutorial YouTube | ![Static Badge](https://img.shields.io/badge/level-medium-yellow) |
@@ -53,10 +53,10 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
 </details>
 
 <details open>
-  <summary><h3>Front-end</h3></summary>
+  <summary><h3>Frontend</h3></summary>
     
   | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: begginer, easy, medium, hard, expert") |   
-  |------|-------|-------|-------|
+  |--------------|-----------------|-------------|----------------------------------------------------------------------------|
   | [Snake Game 🐍](https://github.com/alexvieirasj/snake-game) | HTML5 + CSS3 + JavaScript | Programador BR - Tutorial YouTube |![Static Badge](https://img.shields.io/badge/level-beginner-green)
   | [Calculadora 📟](https://github.com/alexvieirasj/onebitcode_calculator) | HTML5 + CSS3 + JavaScript | OneBitCode - Curso Programador FullStack |![Static Badge](https://img.shields.io/badge/level-easy-brightgreen)
   | [Tic Tac Toe 🎯](https://github.com/alexvieirasj/onebitcode-tic-tac-toe) | HTML5 + CSS3 + JavaScript | OneBitCode - Curso Programador FullStack |![Static Badge](https://img.shields.io/badge/level-easy-brightgreen)
@@ -64,6 +64,16 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
   | [Quiz 🎲](https://github.com/alexvieirasj/quiz-application) | HTML5 + CSS3 + JavaScript + Bootstrap  | CJRM - Curso JavaScript |![Static Badge](https://img.shields.io/badge/level-beginner-green)
   | [Weather Application ☀️](https://github.com/alexvieirasj/weather-application) | HTML5 + CSS3 + JavaScript + Bootstrap | CJRM - Curso JavaScript |![Static Badge](https://img.shields.io/badge/level-medium-yellow)
 
+  
+</details>
+
+
+<details open>
+  <summary><h3>Backend</h3></summary>
+    
+  | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: begginer, easy, medium, hard, expert") |   
+  |--------------|-----------------|-------------|----------------------------------------------------------------------------|
+  | [FirstAPI 🥇](https://github.com/alexvieirasj/firstapi-app) | JavaScript + Node.js | JStack - Curso |![Static Badge](https://img.shields.io/badge/level-medium-yellow)
   
 </details>
 
