@@ -74,6 +74,7 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
   | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: begginer, easy, medium, hard, expert") |   
   |--------------|-----------------|-------------|----------------------------------------------------------------------------|
   | [FirstAPI 🥇](https://github.com/alexvieirasj/firstapi-app) | JavaScript + Node.js | JStack - Curso |![Static Badge](https://img.shields.io/badge/level-medium-yellow)
+  | [Cadastro Cursos 🎓](https://github.com/alexvieirasj/DAW-Modelo-1-Model) | Java 8 + PostgreSQL + JUnit 4 + Hibernate Validator + Hibernate JPA + Apache Tomcat 9 | Faculdade - Desenvolvimento de Aplicações Web | ![Static Badge](https://img.shields.io/badge/level-medium-yellow) |
   
 </details>
 
