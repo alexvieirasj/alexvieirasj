@@ -63,6 +63,7 @@ I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doi
   | [To do List ✅](https://github.com/alexvieirasj/to-do-list) | HTML5 + CSS3 + JavaScript + Bootstrap + Font Awesome | CJRM - Curso JavaScript |![Static Badge](https://img.shields.io/badge/level-easy-brightgreen) 
   | [Quiz 🎲](https://github.com/alexvieirasj/quiz-application) | HTML5 + CSS3 + JavaScript + Bootstrap  | CJRM - Curso JavaScript |![Static Badge](https://img.shields.io/badge/level-beginner-green)
   | [Weather Application ☀️](https://github.com/alexvieirasj/weather-application) | HTML5 + CSS3 + JavaScript + Bootstrap | CJRM - Curso JavaScript |![Static Badge](https://img.shields.io/badge/level-medium-yellow)
+  | [Currency Converter 💵](https://github.com/alexvieirasj/currency-converter) | HTML5 + CSS3 + JavaScript + Bootstrap | CJRM - Curso JavaScript |![Static Badge](https://img.shields.io/badge/level-medium-yellow)
 
   
 </details>
