@@ -4,10 +4,10 @@
 ---
 
 ## Hi 👋          
-I'm Alex Vieira, I work as a software developer 👨‍💻 and actually I'm doing Programador FullStack course by [OneBitCode](https://www.youtube.com/@OneBitCode).
+I'm Alex Vieira, a software developer 👨‍💻 and I'm currently taking the [Java 10x](https://java10x.dev/lista-de-espera/) course by [Fiasco](https://www.youtube.com/@GrandeFiasco).
 
 ## 🧐 About Me
-- 🔭 I'm currently studying JavaScript ES6
+- 🔭 I'm currently studying Java 17
 - 💬 Ask me about the TV series, movies, animes, and time travel stuff
 - ⚡ Fun fact: I still hope Hunter X Hunter will come back this year
 
