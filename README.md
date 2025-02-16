@@ -40,7 +40,7 @@ I'm Alex Vieira, a software developer 👨‍💻 and I'm currently taking the [
 <details open>
   <summary><h3>Frontend + Backend</h3></summary>
   
-  | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: begginer, easy, medium, hard, expert")  | 
+  | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: Beginner, Easy, Intermediate, Medium, Hard, Expert")  | 
   |--------------|-----------------|-------------|-----------------------------------------------------------------------------|
   | [Ecoleta 🗑️](https://github.com/alexvieirasj/ecoleta-basic-app) | Node.js + Express.js + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Evento NLW | ![Static Badge](https://img.shields.io/badge/level-medium-yellow) |
   | [Foodfy 🍲](https://github.com/alexvieirasj/foodfy-app) | Node.js + Express.js + SQLite3 + HTML5 + CSS3 + JavaScript | Rocketseat - Curso Launchbase | ![Static Badge](https://img.shields.io/badge/level-medium-yellow) |  
@@ -55,7 +55,7 @@ I'm Alex Vieira, a software developer 👨‍💻 and I'm currently taking the [
 <details open>
   <summary><h3>Frontend</h3></summary>
     
-  | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: begginer, easy, medium, hard, expert") |   
+  | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: Beginner, Easy, Intermediate, Medium, Hard, Expert") |   
   |--------------|-----------------|-------------|----------------------------------------------------------------------------|
   | [Snake Game 🐍](https://github.com/alexvieirasj/snake-game) | HTML5 + CSS3 + JavaScript | Programador BR - Tutorial YouTube |![Static Badge](https://img.shields.io/badge/level-beginner-green)
   | [Calculadora 📟](https://github.com/alexvieirasj/onebitcode_calculator) | HTML5 + CSS3 + JavaScript | OneBitCode - Curso Programador FullStack |![Static Badge](https://img.shields.io/badge/level-easy-brightgreen)
@@ -72,7 +72,7 @@ I'm Alex Vieira, a software developer 👨‍💻 and I'm currently taking the [
 <details open>
   <summary><h3>Backend</h3></summary>
     
-  | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: begginer, easy, medium, hard, expert") |   
+  | Project Name | Languages/Tools | Description | Project Evaluation [💡](## "Levels: Beginner, Easy, Intermediate, Medium, Hard, Expert") |   
   |--------------|-----------------|-------------|----------------------------------------------------------------------------|
   | [FirstAPI 🥇](https://github.com/alexvieirasj/firstapi-app) | JavaScript + Node.js | JStack - Curso |![Static Badge](https://img.shields.io/badge/level-medium-yellow)
   | [Cadastro Cursos 🎓](https://github.com/alexvieirasj/DAW-Modelo-1-Model) | Java 8 + PostgreSQL + JUnit 4 + Apache Tomcat 9 | Faculdade - Desenvolvimento de Aplicações Web | ![Static Badge](https://img.shields.io/badge/level-medium-yellow) |
