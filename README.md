@@ -64,6 +64,7 @@ I'm Alex Vieira, a software developer 👨‍💻 and I'm currently taking the [
   | [Quiz 🎲](https://github.com/alexvieirasj/quiz-application) | HTML5 + CSS3 + JavaScript + Bootstrap  | CJRM - Curso JavaScript |![Static Badge](https://img.shields.io/badge/level-beginner-green)
   | [Weather Application ☀️](https://github.com/alexvieirasj/weather-application) | HTML5 + CSS3 + JavaScript + Bootstrap | CJRM - Curso JavaScript |![Static Badge](https://img.shields.io/badge/level-medium-yellow)
   | [Currency Converter 💵](https://github.com/alexvieirasj/currency-converter) | HTML5 + CSS3 + JavaScript + Bootstrap | CJRM - Curso JavaScript |![Static Badge](https://img.shields.io/badge/level-medium-yellow)
+  | [Local Turístico 🚢](https://github.com/alexvieirasj/local-turistico-fullstack) | HTML5 + CSS3 | Rocketseat - Curso Fullstack |![Static Badge](https://img.shields.io/badge/level-beginner-green)
 
   
 </details>
